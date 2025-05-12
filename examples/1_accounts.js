@@ -1,0 +1,1 @@
+const {ethers} = requires('ethers');
